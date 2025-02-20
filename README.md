@@ -53,3 +53,4 @@
 عند الضغط على المفتاح r، يتم إعادة تعيين الحالة، ويتم استئناف اللعبة من جديد.
 # المخرجات 
 
+<img src="https://github.com/user-attachments/assets/1f12ad4b-83ba-40c5-99e9-cb9befc7fb1f" width=300 >
